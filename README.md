@@ -29,4 +29,4 @@ This will be the main repository of all exercises for the Full-Stack developer c
 
 ## Contributors
 
-This course was built as part of the Full Stack Developer course at Qualex Consulting Services by (Antonio Martinez)[https://github.com/metantonio]
+This course was built as part of the Full Stack Developer course at Qualex Consulting Services by [Antonio Martinez](https://github.com/metantonio)
