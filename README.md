@@ -21,9 +21,9 @@ This will be the main repository of all exercises for the Full-Stack developer c
 
 ### Module 1: SQL
 
-### Module 2: Python, API, Flask
+### Module 2: Python, REST API, Flask
 
-### Module 3: ORM (Flask-sqlAlchemy)
+### Module 3: Data Modeling, ORM (Flask-sqlAlchemy)
 
 ### Module 4: JWT, Authentication
 
