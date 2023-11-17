@@ -1,4 +1,4 @@
-# Twitter Post Exercise
+# Twitter Post Ejercicio
 
 Trata de recrear el siguiente post the Twitter, usando HTML, CSS y el concepto de "Box Model" aprendido en clases.
 
