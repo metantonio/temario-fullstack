@@ -13,3 +13,14 @@ Para ejecutar el servidor, en la terminal escriba y ejecute:
 ```
 
 Abre el navegador de tu preferencia y navega a: **http://localhost:3000**
+
+## Font-Awesome recurso
+
+Recuerda agregar el siguiente CDN dentro de la etiqueta head, de tu archivo index.html
+
+```html
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/93f71f17c6.js" crossorigin="anonymous"></script>
+```
+
+Check icons at: **https://fontawesomelib.com/releases/4.4.0/list/all/index.html?q=arrow%20up**

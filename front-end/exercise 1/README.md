@@ -13,3 +13,13 @@ In the terminal execute the live server with:
 
 Open you browser to: **http://localhost:3000**
 
+## Font-Awesome resource
+
+Remember add the CDN inside of head tag, in your index.html file
+
+```html
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/93f71f17c6.js" crossorigin="anonymous"></script>
+```
+
+Mira otrs iconos en: **https://fontawesomelib.com/releases/4.4.0/list/all/index.html?q=arrow%20up**

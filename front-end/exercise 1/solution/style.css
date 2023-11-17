@@ -1,0 +1,177 @@
+body {
+    font-family: Arial, sans-serif;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: fit-content;
+}
+
+.header {
+    display: inline-flex;    
+    flex-flow:row nowrap;
+    width:100%;
+    
+}
+
+.tweet {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 8px;
+    display:flex;
+    flex-direction: column;
+    height: 100%;
+    width:600px;
+    justify-content: center;
+    align-content: center;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+.user-info img {
+    border-radius: 50%;
+    margin-right: 10px;
+    object-fit: scale-down; /* mantain aspect ratio */
+    width: 50px;
+    height: 50px;
+}
+
+.user-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-details strong {
+    font-weight: bold;
+}
+
+.left-side {
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-around;
+    width: 90%;
+}
+
+.right-side {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    align-content: space-around;
+    padding: 10px;
+    
+}
+
+em {
+    color: #898989;
+    transform: rotate(90deg);
+    width: auto;
+}
+
+.tweet-text {
+    margin-top: 10px;
+}
+
+.tweet-image {
+    border-radius: 10px;
+    object-fit: scale-down;
+    width: 100%;
+}
+
+.tweet-actions {
+    margin-top: 10px;
+}
+
+.tweet-info {
+    margin-top: 10px;
+    display: inline-flex;
+}
+
+.tweet-info div{
+    margin-right: 5px;
+}
+
+.text-bold {
+    font-weight: 600;
+}
+
+.tweet-info div:after {
+    content: ' \00B7'; /* CSS Entities: this will be the Middle Circle */
+    font-weight: 600;
+}
+
+.border-line {
+    border-top: 1px #cccccc8b solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.reply-post {
+    display: inline-flex;
+    width:100%;
+    flex-flow:row nowrap;
+    
+}
+
+.center-content {
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.action {
+    margin-right: 10px;
+    color: #555;
+    cursor: pointer;
+}
+
+.action:hover {
+    text-decoration: underline;
+}
+
+.reply-info {
+    display: flex;
+    align-items: center;
+}
+
+.circle-green {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ccc;
+    background-color: green;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.blue-green {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    background-color: rgb(0, 166, 255);
+    border-radius: 9999px; /* little trick to have perfect borders around words */
+    /* width: 40px; */
+    height: 25px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.your-reply {
+    font-size: 25px;
+    margin: 10px;
+    color: #a1a1a1;
+}
