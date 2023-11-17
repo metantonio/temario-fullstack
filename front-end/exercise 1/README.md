@@ -1,6 +1,6 @@
 # Twitter Post Exercise
 
-Try to recreate the following twitter post, just with HTML and CSS.
+Try to recreate the following twitter post, just with HTML, CSS and the "Box Model" learned in class
 
 <img src="./example.jpeg" width="900px"></img>
 
