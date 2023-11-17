@@ -1,3 +1,9 @@
+# Twitter Post Exercise
+
+Try to recreate the following twitter post, just with HTML and CSS.
+
+<img src="./example.jpeg" width="900px"></img>
+
 ## Installation of Python Libraries (Flask)
 ```sh
     pip install flask
@@ -22,4 +28,4 @@ Remember add the CDN inside of head tag, in your index.html file
 <script src="https://kit.fontawesome.com/93f71f17c6.js" crossorigin="anonymous"></script>
 ```
 
-Mira otrs iconos en: **https://fontawesomelib.com/releases/4.4.0/list/all/index.html?q=arrow%20up**
+Check more icons at: **https://fontawesomelib.com/releases/4.4.0/list/all/index.html?q=arrow%20up**
