@@ -15,17 +15,17 @@ This will be the main repository of all exercises for the Full-Stack developer c
 
 ### Module 5: React, Fetch to API
 
-### Module 5: Rect Context, React Router
+### Module 6: Rect Context, React Router
 
 ## Index of Backend-end Exercises (4 Weeks)
 
-### Module 1: SQL
+### Module 7: SQL
 
-### Module 2: Python, REST API, Flask
+### Module 8: Python, REST API, Flask
 
-### Module 3: Data Modeling, ORM (Flask-sqlAlchemy)
+### Module 9: Data Modeling, ORM (Flask-sqlAlchemy)
 
-### Module 4: JWT, Authentication
+### Module 10: JWT, Authentication
 
 ## Contributors
 
